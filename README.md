@@ -57,3 +57,19 @@ This repository contains the work completed during the BCG Data Science Job Simu
    ```bash
    git clone https://github.com/your-repo/bcg-data-science-simulation.git
    cd bcg-data-science-simulation
+   ```
+
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```  
+
+3. Explore the Jupyter Notebooks for each task:  
+   - **Task 2**: `Exploratory_Data_Analysis.ipynb`  
+   - **Task 3**: `Task_3_feature_engineering.ipynb`  
+   - **Task 4**: `Task_4_modeling_starter.ipynb`  
+
+---
+
+## Contact  
+For any questions or feedback, please reach out to [yahyabellmir@gmail.com](mailto:yahyabellmir@mail.com)
