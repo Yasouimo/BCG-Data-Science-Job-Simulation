@@ -6,7 +6,7 @@ This repository contains the work completed during the BCG Data Science Job Simu
 
 ---
 
-## Project Structure  
+## Project Structure   
 
 ### **Task 1: Business Understanding & Hypothesis Framing**  
 - Defined the business problem: Understanding customer churn and identifying key drivers.  
