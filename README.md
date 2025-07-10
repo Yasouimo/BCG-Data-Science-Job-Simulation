@@ -1,6 +1,6 @@
-# BCG Data Science Job Simulation (Forage)  
+# BCG Data Science Job Simulation (Forage)
 **Feb 2025 - Mar 2025**   
-
+ 
 ## Overview
 This repository contains the work completed during the BCG Data Science Job Simulation program. The project focused on analyzing customer churn, building predictive models, and delivering actionable insights to drive business decisions.
 
