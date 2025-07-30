@@ -1,4 +1,4 @@
-# BCG Data Science Job Simulation (Forage)  
+# BCG Data Science Job Simulation (Forage)
 **Feb 2025 - Mar 2025**
 
 ## Overview 
